@@ -15,7 +15,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am a second-year PhD student in the Harvard-MIT [Program in Speech and Hearing Bioscience and Technology (SHBT)](https://shbtphd.hms.harvard.edu/) working with Evelina (Ev) Fedorenko and Nancy Kanwisher in the [Department of Brain and Cognitive Sciences](https://bcs.mit.edu/) at MIT. I am also supported by a graduate fellowship from the [Kempner Institute for the Study of Natural and Artificial Intelligence](https://kempnerinstitute.harvard.edu/) at Harvard University.
+I am a third-year PhD candidate in the Harvard-MIT [Program in Speech and Hearing Bioscience and Technology (SHBT)](https://shbtphd.hms.harvard.edu/) working with Evelina (Ev) Fedorenko and Nancy Kanwisher in the [Department of Brain and Cognitive Sciences](https://bcs.mit.edu/) at MIT. I am also supported by a graduate fellowship from the [Kempner Institute for the Study of Natural and Artificial Intelligence](https://kempnerinstitute.harvard.edu/) at Harvard University.
 
 I am broadly interested in the neural basis of language, and my research is organized into two lines of related work:
 
