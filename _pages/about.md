@@ -8,7 +8,7 @@ profile:
   align: right
   image: 230922_Kempner_Colton_026-Edit_cropped2.jpg
   image_circular: false # crops the image to make it circular
-  more_info: 
+  more_info:
 
 news: false # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
@@ -23,7 +23,6 @@ I am broadly interested in the contributions of **non-canonical** brain areas to
 
 2. **Language processing in other large-scale cortical networks.** Language understanding entails not just extracting the surface-level meaning of the linguistic input but constructing rich mental models of the situation it describes. Therefore, deeply understanding language likely requires exporting information from the language system to other large-scale cortical networks that construct mental models of minds, objects, and places. The second aim of my research is to understand when and how the language network interacts with brain systems that support other aspects of cognition--including the Theory-of-Mind, Physics, and Default-Mode networks.
 
-To pursue these questions, I utilize a variety of approaches from neuroscience and machine learning, including functional magnetic resonance imaging (fMRI), intracranial recordings, and computational modeling. I am also deeply interested in using our understanding of language processing in biological brains to inform how we design artificial language systems. 
+To pursue these questions, I utilize a variety of approaches from neuroscience and machine learning, including functional magnetic resonance imaging (fMRI), intracranial recordings, and computational modeling. I am also deeply interested in using our understanding of language processing in biological brains to inform how we design artificial language systems.
 
 Prior to starting my PhD, I completed my undergraduate studies at Princeton University in [Neuroscience](https://pni.princeton.edu/), with minors in Computer Science and Machine Learning. While at Princeton, I conducted research in [Uri Hasson](https://hassonlab.princeton.edu/)'s lab examining the relationship between LLMs and human language processing using naturalistic intracranial recordings during unconstrained conversations.
-
